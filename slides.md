@@ -1,6 +1,7 @@
 title: Git-ing To Know The Basics
 author:
   name: Chris Olszewski
+  url: http://www.github.com/chris-olszewski
 outputs: slides.html
 controls: true
 theme: jdan/cleaver-retro
@@ -14,16 +15,16 @@ theme: jdan/cleaver-retro
 
 ### What's git?
 
--**Git:** a version control system for source code specifically created for collaborative coding. It keeps track of the additions and deletions of each line of code in every file checked in the repository.
--**GitHub:** a website which hosts the git repository and provides project management tools as well.
+- **Git:** a version control system for source code specifically created for collaborative coding. It keeps track of the additions and deletions of each line of code in every file checked in the repository.
+- **GitHub:** a website which hosts the git repository and provides project management tools as well.
 
 --
 
 ### Git Specific Vocabulary
 
-**Repository:** Project that git keeps track of. Completely contained in a single folder.
-**Branch:** An alternative version of the repository. Usually used for adding features.
-**Commit:** A single update to a branch of a repository.
+- **Repository:** Project that git keeps track of. Completely contained in a single folder.
+- **Branch:** An alternative version of the repository. Usually used for adding features.
+- **Commit:** A single update to a branch of a repository.
 
 --
 
@@ -63,7 +64,7 @@ This saves the changes to the git repository. Each commit is a separate version 
 
 --
 
-### Wait that's some bad git-iquette! You shouldn't be pushing to master!
+### Wait that's some bad eti-git! You shouldn't be pushing to master!
 
 - Before you start changing files `git branch new-branch`
 - Change files
